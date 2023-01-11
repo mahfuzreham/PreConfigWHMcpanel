@@ -60,5 +60,6 @@ curl -Ls https://raw.githubusercontent.com/mahfuzreham/PreConfigWHMcpanel/main/.
 
 ### Support
 
-Any issue please contact me@mahfuzreham.com
-https://Mahfuzreham.Com
+Any issue please contact me@mahfuzreham.com <br/>
+Website: https://Mahfuzreham.Com
+
