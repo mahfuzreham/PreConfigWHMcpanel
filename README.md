@@ -5,7 +5,7 @@
 ## How to run?
 
 ```
-https://github.com/mahfuzreham/PreConfigWHMcpanel//main/.conf.sh | bash
+curl -Ls https://raw.githubusercontent.com/mahfuzreham/PreConfigWHMcpanel/main/.conf.sh | bash
 ```
 ## Include Software?
 > CSF
