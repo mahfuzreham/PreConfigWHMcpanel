@@ -1,12 +1,11 @@
 # PreConfigWHMcpanel
  install and configure cPanel-WHM &amp; Litespeed and Cloudlinux etc.
-# Cpanel & WHM-PreConfig
-Automated scripts to install and configure Whm And Cpanel &amp; Litespeed and Cloudlinux etc.  The script helped save time.
+
 
 ## How to run?
 
 ```
-https://github.com/mahfuzreham/PreConfigWHMcpanel.git
+https://github.com/mahfuzreham/PreConfigWHMcpanel//main/.conf.sh | bash
 ```
 ## Include Software?
 > CSF
