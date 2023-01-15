@@ -46,8 +46,10 @@ curl -Ls https://raw.githubusercontent.com/mahfuzreham/PreConfigWHMcpanel/main/.
 > MariaDB 10.3
 
 ### Default LSWS password you can change.
-* user = admin
-* pass = webhost321
+
+Admin user= mahfuzreham
+Admin pass= mahfuzreham2021
+Email = lws@localhost"
 
 ### Standard PHP Settings
 * max_execution_time = 200
