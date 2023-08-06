@@ -7,14 +7,14 @@ PASSV_MIN=$(echo $PASSV_PORT | cut -d':' -f1)
 PASSV_MAX=$(echo $PASSV_PORT | cut -d':' -f2)
 ISVPS=$(((dmidecode -t system 2>/dev/null | grep "Manufacturer" | grep -i 'VMware\|KVM\|Bochs\|Virtual\|HVM' > /dev/null) || [ -f /proc/vz/veinfo ]) && echo "SI" || echo "NO")
 echo ""
-echo ""
+echo "
 ///////////////////////// Me@MahfuzReham.Com /////////////////////////
 //                                                                    //
 //                                                                    //
 //                MD Mahfuz Reham - www.MahfuzReham.Com              //
 //                                                                    //
 ////////////////////////////////////////////////////////////////////////
-
+"
 echo ""
 echo ""
 echo "  ####################### WHM Install PreConfiguration by MahfuzReham.Com #######################  "
